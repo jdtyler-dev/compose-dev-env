@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.337" height="31.803" viewBox="0 0 33.337 31.803">
+  <defs>
+    <filter id="Rectangle_22268" x="0" y="0" width="33.337" height="31.803" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Rectangle_22268-2" x="0" y="0" width="33.337" height="31.803" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#090802" flood-opacity="0.98" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Checkbox" transform="translate(7.435 4.421)">
+    <g id="Checkbox-2" data-name="Checkbox" style="isolation: isolate">
+      <g id="Group_31359" data-name="Group 31359">
+        <g id="Rectangle" transform="translate(0 0)" fill="#0f2">
+          <path d="M 17.21471786499023 17.4247989654541 L 1.229627966880798 17.4247989654541 C 0.8273079395294189 17.4247989654541 0.4999979734420776 17.07473945617676 0.4999979734420776 16.64444923400879 L 0.4999979734420776 1.280339479446411 C 0.4999979734420776 0.8500595092773438 0.8273079395294189 0.4999994933605194 1.229627966880798 0.4999994933605194 L 17.21471786499023 0.4999994933605194 C 17.61702728271484 0.4999994933605194 17.94433784484863 0.8500595092773438 17.94433784484863 1.280339479446411 L 17.94433784484863 16.64444923400879 C 17.94433784484863 17.07473945617676 17.61702728271484 17.4247989654541 17.21471786499023 17.4247989654541 Z" stroke="none"/>
+          <path d="M 1.229618072509766 1 C 1.105148315429688 1 0.9999980926513672 1.128379821777344 0.9999980926513672 1.280340194702148 L 0.9999980926513672 16.64444923400879 C 0.9999980926513672 16.79641914367676 1.105148315429688 16.9247989654541 1.229618072509766 16.9247989654541 L 17.21471786499023 16.9247989654541 C 17.33918762207031 16.9247989654541 17.44433784484863 16.79641914367676 17.44433784484863 16.64444923400879 L 17.44433784484863 1.280340194702148 C 17.44433784484863 1.128379821777344 17.33918762207031 1 17.21471786499023 1 L 1.229618072509766 1 M 1.229618072509766 0 L 17.21471786499023 0 C 17.89381790161133 0 18.44433784484863 0.5732288360595703 18.44433784484863 1.280340194702148 L 18.44433784484863 16.64444923400879 C 18.44433784484863 17.35157012939453 17.89381790161133 17.9247989654541 17.21471786499023 17.9247989654541 L 1.229618072509766 17.9247989654541 C 0.5505180358886719 17.9247989654541 -1.9073486328125e-06 17.35157012939453 -1.9073486328125e-06 16.64444923400879 L -1.9073486328125e-06 1.280340194702148 C -1.9073486328125e-06 0.5732288360595703 0.5505180358886719 0 1.229618072509766 0 Z" stroke="none" fill="#498f5e"/>
+        </g>
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(1, 0, 0, 1, -7.44, -4.42)" filter="url(#Rectangle_22268)">
+            <g id="Rectangle_22268-3" data-name="Rectangle 22268" transform="translate(9 6)" fill="#f8f5f4" stroke="#318d64" stroke-width="1">
+              <rect width="15.337" height="13.803" stroke="none"/>
+              <rect x="0.5" y="0.5" width="14.337" height="12.803" fill="none"/>
+            </g>
+          </g>
+          <rect id="Rectangle_22268-4" data-name="Rectangle 22268" width="15.337" height="13.803" transform="translate(1.565 1.579)" fill="#f8f5f4"/>
+          <g transform="matrix(1, 0, 0, 1, -7.44, -4.42)" filter="url(#Rectangle_22268-2)">
+            <rect id="Rectangle_22268-5" data-name="Rectangle 22268" width="15.337" height="13.803" transform="translate(9 6)" fill="#fff"/>
+          </g>
+          <g id="Rectangle_22268-6" data-name="Rectangle 22268" transform="translate(1.565 1.579)" fill="none" stroke="#318d64" stroke-width="1">
+            <rect width="15.337" height="13.803" stroke="none"/>
+            <rect x="0.5" y="0.5" width="14.337" height="12.803" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

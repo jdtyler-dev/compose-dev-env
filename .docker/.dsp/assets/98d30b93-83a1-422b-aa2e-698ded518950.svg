@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316.478" height="56" viewBox="0 0 316.478 56">
+  <defs>
+    <filter id="Header" x="51.478" y="4.351" width="265" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#2e7c56" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Header-2" x="51.478" y="4.351" width="265" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.89" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_226" x="2.38" y="0" width="58" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#07f3b9" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="Ellipse_226-2" x="2.38" y="0" width="58" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="0" y="6.25" width="61" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-5"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="19.38" y="13" width="20" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_97" data-name="Component 97" transform="translate(15.38 9.351)">
+    <g id="Group_31370" data-name="Group 31370" transform="translate(754.229 -15.287) rotate(90)">
+      <g id="Title" transform="translate(15 398.286)">
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(0, -1, 1, 0, -9.06, 371.32)" filter="url(#Header)">
+            <text id="Header-3" data-name="Header" transform="translate(57.48 36.35)" fill="#ff4500" stroke="#07f3b9" stroke-linecap="square" stroke-width="1" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">Front View</tspan></text>
+          </g>
+          <text id="Header-4" data-name="Header" transform="translate(27.287 313.845) rotate(-90)" fill="#ff4500" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">Front View</tspan></text>
+          <g transform="matrix(0, -1, 1, 0, -9.06, 371.32)" filter="url(#Header-2)">
+            <text id="Header-5" data-name="Header" transform="translate(57.48 36.35)" fill="#fff" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">Front View</tspan></text>
+          </g>
+          <text id="Header-6" data-name="Header" transform="translate(27.287 313.845) rotate(-90)" stroke="#07f3b9" stroke-linecap="square" stroke-width="1" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric" fill="none"><tspan x="0" y="0">Front View</tspan></text>
+        </g>
+      </g>
+      <g id="Union_1" data-name="Union 1" transform="translate(24.686 748.108) rotate(-90)" style="isolation: isolate">
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(1, 0, 0, 1, -21.5, -18.75)" filter="url(#Ellipse_226)">
+            <g id="Ellipse_226-3" data-name="Ellipse 226" transform="translate(15.38 14)" fill="#ff4500" stroke="rgba(4,252,193,0.96)" stroke-linecap="square" stroke-linejoin="round" stroke-width="2">
+              <ellipse cx="14" cy="13" rx="14" ry="13" stroke="none"/>
+              <ellipse cx="14" cy="13" rx="13" ry="12" fill="none"/>
+            </g>
+          </g>
+          <ellipse id="Ellipse_226-4" data-name="Ellipse 226" cx="14" cy="13" rx="14" ry="13" transform="translate(-6.12 -4.75)" fill="#ff4500"/>
+          <g transform="matrix(1, 0, 0, 1, -21.5, -18.75)" filter="url(#Ellipse_226-2)">
+            <ellipse id="Ellipse_226-5" data-name="Ellipse 226" cx="14" cy="13" rx="14" ry="13" transform="translate(15.38 14)" fill="#fff"/>
+          </g>
+          <g id="Ellipse_226-6" data-name="Ellipse 226" transform="translate(-6.12 -4.75)" fill="none" stroke="rgba(4,252,193,0.96)" stroke-linecap="square" stroke-linejoin="round" stroke-width="2">
+            <ellipse cx="14" cy="13" rx="14" ry="13" stroke="none"/>
+            <ellipse cx="14" cy="13" rx="13" ry="12" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.5, -18.75)" filter="url(#Rectangle_3)">
+          <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(37.5 25.75) rotate(90)" fill="#45fed1" stroke-linecap="square" opacity="0.81">
+            <path d="M 1.5 15.5 L 0.5 15.5 L 0.5 0.5 L 1.5 0.5 L 1.5 15.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 15 L 1 1 M 0 0 L 2 0 L 2 16 L 0 16 L 0 0 Z" stroke="none" fill="#04fcc1"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.5, -18.75)" filter="url(#Rectangle_2)">
+          <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(28.38 19)" fill="#45fed1" stroke="#04fcc1" stroke-linecap="square" stroke-linejoin="round" stroke-width="1" opacity="0.8">
+            <rect width="2" height="16" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1" height="15" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

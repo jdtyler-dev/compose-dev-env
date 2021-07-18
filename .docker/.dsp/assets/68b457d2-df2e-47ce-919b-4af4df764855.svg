@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="289" height="59" viewBox="0 0 289 59">
+  <defs>
+    <filter id="Rectangle_22234" x="0" y="0" width="289" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Rectangle_22234-2" x="0" y="0" width="289" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.231" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="in_process" x="13.5" y="2.5" width="264" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="in_process-2" x="13.5" y="2.5" width="264" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_52" data-name="Component 52" transform="translate(9.5 6.5)">
+    <g id="In_Process_Button" data-name="In Process Button">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -9.5, -6.5)" filter="url(#Rectangle_22234)">
+          <rect id="Rectangle_22234-3" data-name="Rectangle 22234" width="270" height="40" rx="20" transform="translate(9.5 6.5)" fill="rgba(7,243,185,0.23)" stroke="rgba(13,248,168,0.45)" stroke-linejoin="bevel" stroke-width="1"/>
+        </g>
+        <rect id="Rectangle_22234-4" data-name="Rectangle 22234" width="270" height="40" rx="20" fill="rgba(7,243,185,0.23)"/>
+        <g transform="matrix(1, 0, 0, 1, -9.5, -6.5)" filter="url(#Rectangle_22234-2)">
+          <rect id="Rectangle_22234-5" data-name="Rectangle 22234" width="270" height="40" rx="20" transform="translate(9.5 6.5)" fill="#fff"/>
+        </g>
+        <rect id="Rectangle_22234-6" data-name="Rectangle 22234" width="270" height="40" rx="20" fill="none" stroke="rgba(13,248,168,0.45)" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -9.5, -6.5)" filter="url(#in_process)">
+          <text id="in_process-3" data-name="in process" transform="translate(23.5 36.5)" fill="#ff4500" stroke="rgba(13,248,168,0.45)" stroke-linejoin="bevel" stroke-width="1" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">in process</tspan></text>
+        </g>
+        <text id="in_process-4" data-name="in process" transform="translate(14 30)" fill="#ff4500" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">in process</tspan></text>
+        <g transform="matrix(1, 0, 0, 1, -9.5, -6.5)" filter="url(#in_process-2)">
+          <text id="in_process-5" data-name="in process" transform="translate(23.5 36.5)" fill="#fff" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric"><tspan x="0" y="0">in process</tspan></text>
+        </g>
+        <text id="in_process-6" data-name="in process" transform="translate(14 30)" stroke="rgba(13,248,168,0.45)" stroke-linejoin="bevel" stroke-width="1" font-size="29" font-family="EthnocentricRg-Regular, Ethnocentric" fill="none"><tspan x="0" y="0">in process</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,6 +1,755 @@
 {
   "dsp_spec_version": "0.0.1",
   "last_updated_by": "JDT",
-  "last_updated": "2021-07-18T17:39:12.943Z",
-  "entities": []
+  "last_updated": "2021-07-18T18:11:35.871Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1ab4c844-8061-4616-946e-98b858ca9f6e",
+      "name": "Segoe UI — 13pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "0f4163c1-b9be-4717-abe8-04e3fc6e958a",
+        "last_sync": "2021-07-18T18:14:20.864Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1ab4c844-8061-4616-946e-98b858ca9f6e",
+          "type": "custom",
+          "value": "Segoe UI",
+          "key": "family"
+        },
+        {
+          "id": "1ab4c844-8061-4616-946e-98b858ca9f6e",
+          "type": "custom",
+          "value": "Semibold",
+          "key": "weight"
+        },
+        {
+          "id": "1ab4c844-8061-4616-946e-98b858ca9f6e",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "6f1b42bf-eae3-470f-8ad6-ac9f15cf8a7a",
+      "name": "Segoe UI — 14pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "02beff76-88ab-43d3-a8e6-0fb1fdf37e9c",
+        "last_sync": "2021-07-18T18:14:20.864Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "6f1b42bf-eae3-470f-8ad6-ac9f15cf8a7a",
+          "type": "custom",
+          "value": "Segoe UI",
+          "key": "family"
+        },
+        {
+          "id": "6f1b42bf-eae3-470f-8ad6-ac9f15cf8a7a",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "6f1b42bf-eae3-470f-8ad6-ac9f15cf8a7a",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4d3a615a-7a0b-4ab0-b456-4ae361fe4021",
+      "name": "Segoe UI — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "94d7098b-acac-4d89-a29c-c3736f24aecd",
+        "last_sync": "2021-07-18T18:14:20.864Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "4d3a615a-7a0b-4ab0-b456-4ae361fe4021",
+          "type": "custom",
+          "value": "Segoe UI",
+          "key": "family"
+        },
+        {
+          "id": "4d3a615a-7a0b-4ab0-b456-4ae361fe4021",
+          "type": "custom",
+          "value": "Semibold",
+          "key": "weight"
+        },
+        {
+          "id": "4d3a615a-7a0b-4ab0-b456-4ae361fe4021",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c6760150-5ae7-4c23-b9d8-b37f720c30ef",
+      "name": "Ethnocentric — 32pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "eca9c41e-7217-45d6-9d3e-bde60b1bd4b5",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c6760150-5ae7-4c23-b9d8-b37f720c30ef",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "c6760150-5ae7-4c23-b9d8-b37f720c30ef",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "c6760150-5ae7-4c23-b9d8-b37f720c30ef",
+          "type": "size",
+          "value": "32",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "e449587e-d9f4-4148-bf2a-8cf4aca44ab7",
+      "name": "Source Code Pro — 15pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "36f99028-7edd-4731-927b-0bb02c72cc97",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "e449587e-d9f4-4148-bf2a-8cf4aca44ab7",
+          "type": "custom",
+          "value": "Source Code Pro",
+          "key": "family"
+        },
+        {
+          "id": "e449587e-d9f4-4148-bf2a-8cf4aca44ab7",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "e449587e-d9f4-4148-bf2a-8cf4aca44ab7",
+          "type": "size",
+          "value": "15",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "e13cb2ef-46fc-49ff-b651-6b11e5e98024",
+      "name": "Ethnocentric — 6pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "779a5923-fcc3-4d1e-9056-7455fe325634",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "e13cb2ef-46fc-49ff-b651-6b11e5e98024",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "e13cb2ef-46fc-49ff-b651-6b11e5e98024",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "e13cb2ef-46fc-49ff-b651-6b11e5e98024",
+          "type": "size",
+          "value": "6",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "573099b3-7c23-4322-9f57-2d2e9231894b",
+      "name": "Ethnocentric — 4pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "228cbcc3-bd66-4ab3-8708-b653338480f9",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "573099b3-7c23-4322-9f57-2d2e9231894b",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "573099b3-7c23-4322-9f57-2d2e9231894b",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "573099b3-7c23-4322-9f57-2d2e9231894b",
+          "type": "size",
+          "value": "4",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d212df84-482e-40b7-b4dc-b9eaaa339392",
+      "name": "Ethnocentric — 25pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "0c7a5e4a-0664-4010-b8ae-cd661a8a187b",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d212df84-482e-40b7-b4dc-b9eaaa339392",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "d212df84-482e-40b7-b4dc-b9eaaa339392",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "d212df84-482e-40b7-b4dc-b9eaaa339392",
+          "type": "size",
+          "value": "25",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "22db9e88-b945-4d06-a008-5385117e4247",
+      "name": "Ethnocentric — 10pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "13c81af8-e8e2-46ad-ab5d-4de05fcd71e2",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "22db9e88-b945-4d06-a008-5385117e4247",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "22db9e88-b945-4d06-a008-5385117e4247",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "22db9e88-b945-4d06-a008-5385117e4247",
+          "type": "size",
+          "value": "10",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "35240fc5-2912-442e-9743-bd2aef46355c",
+      "name": "Ethnocentric — 14pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "d41c31ed-c4d4-4d3a-a9fa-1425343b1585",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "35240fc5-2912-442e-9743-bd2aef46355c",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "35240fc5-2912-442e-9743-bd2aef46355c",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "35240fc5-2912-442e-9743-bd2aef46355c",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "6ee35b56-e6cd-4a13-80fe-78741544e40e",
+      "name": "Ethnocentric — 15pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "aa452c1e-0df2-4e63-a666-0e4eb9aec071",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "6ee35b56-e6cd-4a13-80fe-78741544e40e",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "6ee35b56-e6cd-4a13-80fe-78741544e40e",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "6ee35b56-e6cd-4a13-80fe-78741544e40e",
+          "type": "size",
+          "value": "15",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "540f27c2-296a-4a59-a427-d03ee40b5913",
+      "name": "Ethnocentric — 7pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "630ff409-c1f8-42ce-969a-eeace8bdeb96",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "540f27c2-296a-4a59-a427-d03ee40b5913",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "540f27c2-296a-4a59-a427-d03ee40b5913",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "540f27c2-296a-4a59-a427-d03ee40b5913",
+          "type": "size",
+          "value": "7",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4c1cc3c9-8a0a-490c-b441-ad20215f076d",
+      "name": "Source Code Pro — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "fba4d7e2-36ac-4e9a-a52f-f0ea8c891db6",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "4c1cc3c9-8a0a-490c-b441-ad20215f076d",
+          "type": "custom",
+          "value": "Source Code Pro",
+          "key": "family"
+        },
+        {
+          "id": "4c1cc3c9-8a0a-490c-b441-ad20215f076d",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "4c1cc3c9-8a0a-490c-b441-ad20215f076d",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7572e09a-b765-4dc6-ad0e-ab59aeaba62d",
+      "name": "Source Code Pro — 14pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "a5fc40b2-ec9c-4769-aafa-89ae44e37565",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "7572e09a-b765-4dc6-ad0e-ab59aeaba62d",
+          "type": "custom",
+          "value": "Source Code Pro",
+          "key": "family"
+        },
+        {
+          "id": "7572e09a-b765-4dc6-ad0e-ab59aeaba62d",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "7572e09a-b765-4dc6-ad0e-ab59aeaba62d",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "918dd608-6587-46d5-914d-cbbfa6f7bd12",
+      "name": "Source Code Pro — 13pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "c8a5ca97-c296-4be4-badb-56ee3fec2c15",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "918dd608-6587-46d5-914d-cbbfa6f7bd12",
+          "type": "custom",
+          "value": "Source Code Pro",
+          "key": "family"
+        },
+        {
+          "id": "918dd608-6587-46d5-914d-cbbfa6f7bd12",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "918dd608-6587-46d5-914d-cbbfa6f7bd12",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ccbbf740-3050-4d5d-8242-44a2fa31054b",
+      "name": "Ethnocentric — 29pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "a55c5617-231f-4f2e-aee4-1f4ea2362431",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ccbbf740-3050-4d5d-8242-44a2fa31054b",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "ccbbf740-3050-4d5d-8242-44a2fa31054b",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "ccbbf740-3050-4d5d-8242-44a2fa31054b",
+          "type": "size",
+          "value": "29",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1ccad8d9-3dbc-4fa9-889d-fab872f5cb20",
+      "name": "Ethnocentric — 9pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "aec77b91-635e-404d-b02d-69646568ab1b",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1ccad8d9-3dbc-4fa9-889d-fab872f5cb20",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "1ccad8d9-3dbc-4fa9-889d-fab872f5cb20",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "1ccad8d9-3dbc-4fa9-889d-fab872f5cb20",
+          "type": "size",
+          "value": "9",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c5815adf-4ec9-47c3-a350-fdef64602f14",
+      "name": "Ethnocentric — 13pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "3e292914-a176-4a2f-acba-154d82176ea3",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c5815adf-4ec9-47c3-a350-fdef64602f14",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "c5815adf-4ec9-47c3-a350-fdef64602f14",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "c5815adf-4ec9-47c3-a350-fdef64602f14",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c9415f0c-edc0-4a2e-a181-fd72cd62aef4",
+      "name": "Ethnocentric — 11pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "6050510c-a981-4eae-8181-3b22f5ee62f6",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c9415f0c-edc0-4a2e-a181-fd72cd62aef4",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "c9415f0c-edc0-4a2e-a181-fd72cd62aef4",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "c9415f0c-edc0-4a2e-a181-fd72cd62aef4",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "86e55848-d717-4d3f-89d7-d0f80cd6ffec",
+      "name": "Ethnocentric — 5pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "70447fbf-d40a-4464-969f-a6104f229f53",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "86e55848-d717-4d3f-89d7-d0f80cd6ffec",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "86e55848-d717-4d3f-89d7-d0f80cd6ffec",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "86e55848-d717-4d3f-89d7-d0f80cd6ffec",
+          "type": "size",
+          "value": "5",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "03b21867-4bee-4c10-8fb3-c979c865317e",
+      "name": "Ethnocentric — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "a8d653ec-52d8-4384-b52e-67729a27ee3b",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "03b21867-4bee-4c10-8fb3-c979c865317e",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "03b21867-4bee-4c10-8fb3-c979c865317e",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "03b21867-4bee-4c10-8fb3-c979c865317e",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1f0e8bba-3928-45a3-af88-0701f59738c3",
+      "name": "Ethnocentric — 3pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/1ae082d6-b980-4c92-6db7-0d0d4326d4f6",
+        "id": "bf6e5be3-17f4-4b79-810d-a61a76b9c1d8",
+        "last_sync": "2021-07-18T18:14:20.865Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1f0e8bba-3928-45a3-af88-0701f59738c3",
+          "type": "custom",
+          "value": "Ethnocentric",
+          "key": "family"
+        },
+        {
+          "id": "1f0e8bba-3928-45a3-af88-0701f59738c3",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "1f0e8bba-3928-45a3-af88-0701f59738c3",
+          "type": "size",
+          "value": "3",
+          "key": "size"
+        }
+      ]
+    }
+  ]
 }

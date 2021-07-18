@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="37" viewBox="0 0 39 37">
+  <defs>
+    <filter id="Rectangle_22268" x="0" y="0" width="39" height="37" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Rectangle_22268-2" x="0" y="0" width="39" height="37" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#090802" flood-opacity="0.98" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Checkbox" transform="translate(6.857 3.838)">
+    <g id="Group_31359" data-name="Group 31359" transform="translate(-1.153 -1.347)">
+      <g id="Rectangle" transform="translate(1.153 1.347)" fill="#0f2">
+        <path d="M 23.57082748413086 24.04309463500977 L 1.683627724647522 24.04309463500977 C 1.030967831611633 24.04309463500977 0.4999977946281433 23.48096466064453 0.4999977946281433 22.79001617431641 L 0.4999977946281433 1.753075361251831 C 0.4999977946281433 1.062125444412231 1.030967831611633 0.5000054240226746 1.683627724647522 0.5000054240226746 L 23.57082748413086 0.5000054240226746 C 24.22348785400391 0.5000054240226746 24.75445747375488 1.062125444412231 24.75445747375488 1.753075361251831 L 24.75445747375488 22.79001617431641 C 24.75445747375488 23.48096466064453 24.22348785400391 24.04309463500977 23.57082748413086 24.04309463500977 Z" stroke="none"/>
+        <path d="M 1.683628082275391 0.9999961853027344 C 1.306676864624023 0.9999961853027344 0.9999980926513672 1.337825775146484 0.9999980926513672 1.753074645996094 L 0.9999980926513672 22.79000473022461 C 0.9999980926513672 23.20525550842285 1.306676864624023 23.5430850982666 1.683628082275391 23.5430850982666 L 23.57082748413086 23.5430850982666 C 23.94777679443359 23.5430850982666 24.25445747375488 23.20525550842285 24.25445747375488 22.79000473022461 L 24.25445747375488 1.753074645996094 C 24.25445747375488 1.337825775146484 23.94777679443359 0.9999961853027344 23.57082748413086 0.9999961853027344 L 1.683628082275391 0.9999961853027344 M 1.683628082275391 -3.814697265625e-06 L 23.57082748413086 -3.814697265625e-06 C 24.50066757202148 -3.814697265625e-06 25.25445747375488 0.7848758697509766 25.25445747375488 1.753074645996094 L 25.25445747375488 22.79000473022461 C 25.25445747375488 23.75821495056152 24.50066757202148 24.5430850982666 23.57082748413086 24.5430850982666 L 1.683628082275391 24.5430850982666 C 0.7537879943847656 24.5430850982666 -1.9073486328125e-06 23.75821495056152 -1.9073486328125e-06 22.79000473022461 L -1.9073486328125e-06 1.753074645996094 C -1.9073486328125e-06 0.7848758697509766 0.7537879943847656 -3.814697265625e-06 1.683628082275391 -3.814697265625e-06 Z" stroke="none" fill="#498f5e"/>
+      </g>
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -5.7, -2.49)" filter="url(#Rectangle_22268)">
+          <g id="Rectangle_22268-3" data-name="Rectangle 22268" transform="translate(9 6)" fill="#f8f5f4" stroke="#318d64" stroke-width="1">
+            <rect width="21" height="19" stroke="none"/>
+            <rect x="0.5" y="0.5" width="20" height="18" fill="none"/>
+          </g>
+        </g>
+        <rect id="Rectangle_22268-4" data-name="Rectangle 22268" width="21" height="19" transform="translate(3.296 3.509)" fill="#f8f5f4"/>
+        <g transform="matrix(1, 0, 0, 1, -5.7, -2.49)" filter="url(#Rectangle_22268-2)">
+          <rect id="Rectangle_22268-5" data-name="Rectangle 22268" width="21" height="19" transform="translate(9 6)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_22268-6" data-name="Rectangle 22268" transform="translate(3.296 3.509)" fill="none" stroke="#318d64" stroke-width="1">
+          <rect width="21" height="19" stroke="none"/>
+          <rect x="0.5" y="0.5" width="20" height="18" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

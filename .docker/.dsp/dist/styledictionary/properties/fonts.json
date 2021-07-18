@@ -1,0 +1,250 @@
+{
+  "font": {
+    "Segoe UI — 13pt": {
+      "family": {
+        "value": "Segoe UI"
+      },
+      "weight": {
+        "value": "Semibold"
+      }
+    },
+    "Segoe UI — 14pt": {
+      "family": {
+        "value": "Segoe UI"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Segoe UI — 12pt": {
+      "family": {
+        "value": "Segoe UI"
+      },
+      "weight": {
+        "value": "Semibold"
+      }
+    },
+    "Ethnocentric — 32pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Source Code Pro — 15pt": {
+      "family": {
+        "value": "Source Code Pro"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Ethnocentric — 6pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 4pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 25pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 10pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 14pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 15pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 7pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Source Code Pro — 12pt": {
+      "family": {
+        "value": "Source Code Pro"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Source Code Pro — 14pt": {
+      "family": {
+        "value": "Source Code Pro"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Source Code Pro — 13pt": {
+      "family": {
+        "value": "Source Code Pro"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 29pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 9pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 13pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 11pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 5pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 12pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Ethnocentric — 3pt": {
+      "family": {
+        "value": "Ethnocentric"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Segoe UI — 13pt": {
+        "value": "13"
+      },
+      "Segoe UI — 14pt": {
+        "value": "14"
+      },
+      "Segoe UI — 12pt": {
+        "value": "12"
+      },
+      "Ethnocentric — 32pt": {
+        "value": "32"
+      },
+      "Source Code Pro — 15pt": {
+        "value": "15"
+      },
+      "Ethnocentric — 6pt": {
+        "value": "6"
+      },
+      "Ethnocentric — 4pt": {
+        "value": "4"
+      },
+      "Ethnocentric — 25pt": {
+        "value": "25"
+      },
+      "Ethnocentric — 10pt": {
+        "value": "10"
+      },
+      "Ethnocentric — 14pt": {
+        "value": "14"
+      },
+      "Ethnocentric — 15pt": {
+        "value": "15"
+      },
+      "Ethnocentric — 7pt": {
+        "value": "7"
+      },
+      "Source Code Pro — 12pt": {
+        "value": "12"
+      },
+      "Source Code Pro — 14pt": {
+        "value": "14"
+      },
+      "Source Code Pro — 13pt": {
+        "value": "13"
+      },
+      "Ethnocentric — 29pt": {
+        "value": "29"
+      },
+      "Ethnocentric — 9pt": {
+        "value": "9"
+      },
+      "Ethnocentric — 13pt": {
+        "value": "13"
+      },
+      "Ethnocentric — 11pt": {
+        "value": "11"
+      },
+      "Ethnocentric — 5pt": {
+        "value": "5"
+      },
+      "Ethnocentric — 12pt": {
+        "value": "12"
+      },
+      "Ethnocentric — 3pt": {
+        "value": "3"
+      }
+    }
+  }
+}
