@@ -81,7 +81,8 @@
 		"ms-python.python",
 		"qinjia.view-in-browser",
 		"visualstudioexptteam.vscodeintellicode",
-		"redhat.vscode-yaml"
+		"redhat.vscode-yaml",
+		"adobe.xd"
 	],
 	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
