@@ -7,6 +7,7 @@
         "ddf330636279",
         "b7e00df80c18"
     ],
-    "xd.globalEditor": false,
-    "xd.lastPackage": "/workspaces/compose-dev-env/.dsp"
+    "xd.globalEditor": true,
+    "xd.lastPackage": "/workspaces/compose-dev-env/.dsp",
+    "xd.authorName": "jdtyler"
 }
