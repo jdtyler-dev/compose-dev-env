@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@google-cloud/common": "^3.7.0",
     "@google-cloud/resource": "^1.2.1",
     "@google-cloud/secret-manager": "^3.8.1",
     "@google-cloud/spanner": "^5.12.0",
