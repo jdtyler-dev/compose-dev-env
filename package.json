@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "style-dictionary": "^3.0.1"
-  }
+  },
+  "name": "compose-dev-env",
+  "description": "Example used to try a Compose application with Docker Dev Environments.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platproit/compose-dev-env.git"
+  },
+  "author": "JDTyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platproit/compose-dev-env/issues"
+  },
+  "homepage": "https://github.com/platproit/compose-dev-env#readme"
 }
