@@ -1,12 +1,80 @@
 services:
   backend:
     build: backend
+        context: C:\Users\devpl\AppData\Local\Temp\volume-compose-dev-env-gallant_hamilton\backend
+        dockerfile: C:\Users\devpl\AppData\Local\Temp\volume-compose-dev-env-gallant_hamilton\backend\Dockerfile
+        target: development
+    command:
+    - infinity
     secrets:
       - db-password
     depends_on:
       - db
   db:
-    image: mariadb
+    command:
+    - -d
+    - -u
+    - postgres
+    - -p
+    - 5432
+    - --host
+    - 'db'
+    - --port
+    - 5432
+    - --username
+    - 'dev1'
+    - --password
+    - '8675309'
+    - --dbname
+    - 'ppd_db'
+    - --workdir
+    - 'C:\Users\devpl\AppData\Local\Temp\volume-compose-dev-env-gallant_hamilton\db'
+    - --shared-buffers
+    - '128MB'
+    - --max-connections
+    - '1000'
+    - --listen-addresses
+    - '*'
+    - --log-destination
+    - stderr
+    - --log-min-duration-statement
+    - '10ms'
+    - --log-min-duration-statement-msec
+    - '0'
+    - --log-min-duration-stmt-all
+    - '10ms'
+    - --log-min-duration-stmt-all-msec
+    - '0'
+    - --log-statement
+    - all
+    - --log-connections
+    - all
+    - --log-disconnections
+    - all
+    - --log-error-verbosity
+    - verbose
+    - --log-timezone
+    - 'localtime'
+    - --log-statement-stats
+    - on
+    - --log-lock-waits
+    - off
+    - --log-temp-files
+    - on
+    - --log-checkpoints
+    - on
+    - --log-temp-files-limit
+    - '1GB'
+    - --log-statement-stats-history
+    - '10'
+    - --log-statement-stats-history-size
+    - '10'
+    - --log-statement-stats-history-size-msec
+    - '0'
+    - --log-statement-stats-history-prealloc-size
+    - '1GB'
+    - --log-statement-stats-history-prealloc-size-msec
+    image: postgres:9.6
     restart: always
     secrets:
       - db-password
